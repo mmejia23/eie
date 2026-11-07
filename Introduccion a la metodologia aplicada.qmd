@@ -1,0 +1,89 @@
+---
+title: "Introducción a la Metodología Aplicada"
+subtitle: "Encuadre"
+author: 
+  - name: "Dr. Manuel Mejía"
+    affiliations: "Escuela de Psicología, Campus Tijuana<br> CETYS Universidad"
+    email: manuel.mejia@cetys.mx
+format: 
+  revealjs:
+    embed-resources: true
+    theme: [custom.scss]
+    width: 1280
+    height: 720
+    fontsize: 2em
+    preview-links: true
+    multiplex: true
+editor: visual
+navigation-mode: vertical
+---
+
+# Encuadre
+
+
+## Importancia de saber hacer proyectos
+
+1.  La neuropsicología es joven, y aún falta mucho por hacer. En particular en contextos no WEIRD.
+2.  Una maestría prepara para un doctorado.
+3.  Saber leer de manera crítica la literatura.
+4.  Las habilidades para hacer un proyecto académico son transferibles para proyectos en industria y asociaciones civiles.
+
+## Competencia {.scrollable}
+
+|                                                               |                                                                                                                                                                                                                                                                          |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Introducción a la Metodología Aplicada en Neuropsicología** | Diseña un anteproyecto de investigación aplicando el método científico en el campo de la neuropsicología, que le permita dar solución a problemáticas de su contexto con sentido de responsabilidad y ética profesional.                                                 |
+| **Metodología aplicada en neuropsicología**                   | Implementa un proyecto de investigación que le permita responder a problemáticas de su contexto con sentido de responsabilidad y ética profesional, aplicando el método científico en el campo de la neuropsicología.                                                    |
+| **Técnicas de análisis de datos**                             | Analiza los datos obtenidos de un proyecto de investigación en el campo de la neuropsicología mediante la implementación de técnicas de análisis de datos, que le permita responder a problemáticas de su contexto con sentido de responsabilidad y ética profesional.   |
+| **Seminario integrador de investigación en neuropsicología**  | Discute y comunica los resultados de un proyecto de investigación en el campo de la neuropsicología, mediante la integración de un reporte de investigación, que le permita responder a problemáticas de su contexto con sentido de responsabilidad y ética profesional. |
+
+## Rúbrica de tutores
+
+1.  Mostrar rúbrica.
+2.  Resolver dudas.
+
+## Actividad 1: keywords
+
+1.  Cómo se usan los "keywords" o "palabras clave" en las publicaciones científicas y en congresos.
+2.  Cuáles son keywords útiles.
+3.  Realizar actividad en Miro.
+
+::: callout-note
+Keywords need to be descriptive and capture the most important aspects of your paper. They are used for indexing in databases and as search terms for readers. Include three to five words, phrases, or acronyms as keywords.
+:::
+
+## Actividad 2: presenta tu idea
+
+1.  Define tu proyecto en tres preguntas:
+  a. ¿Qué se ha hecho?
+  b. ¿Qué falta por hacer?
+  c. ¿Qué propones realizar?
+
+
+## Tesis en 3 minutos
+
+## JARS
+
+https://www.dropbox.com/scl/fo/p83siv3sdhgi5ldk7qgz5/ACJrGtUto2BeioZ_u38BaGQ?rlkey=74ytirbulgp0r1m55pom4h9ow&dl=0
+
+## Fuentes
+
+[Biblioteca digital](https://koha.cetys.mx/cgi-bin/koha/opac-page.pl?page_id=56)
+
+
+
+{{< include Diapositivas_anteproyecto_para_insertar.md >}}
+
+
+{{< include PICOT_FINER_Neuropsicologia.qmd >}}
+
+
+{{< include Quine_Lakatos_Meehl_tres_diapositivas.md >}}
+
+{{< include Slides_Enfoques_Cuantitativo_Cualitativo_Sampieri_Cap1.md >}}
+
+
+# Ejercicio de paráfrasis
+
+https://www.dropbox.com/scl/fo/hmirqpb15mjq0ze8bf99t/ABjssSO9MfwOpF6-Hne1CzU?rlkey=ds62rktcw8el845l02ii4e4cb&dl=0
+
